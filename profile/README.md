@@ -1,6 +1,6 @@
-# 🌍 Technology for Good (T4G) at Pitt
+# 🌍 Tech for Good (T4G) at Pitt
 
-Welcome to the official GitHub organization for **Technology for Good (T4G)** at the University of Pittsburgh.  
+Welcome to the official GitHub organization for **Tech for Good (T4G)** at the University of Pittsburgh.  
 We are dedicated to **growing the responsible technology community** through learning, career growth, and research enrichment.
 
 ---
